@@ -1,0 +1,26 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Campbell Biology 11th Edition",
+    "author": "Jane Reece"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "5 Steps to a 5: AP Calculus AB 2020",
+    "author": "William Ma"
+   },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "General Chemistry",
+    "author": "Darrell Ebbing"
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "Physics: Principles with Applications",
+    "author": "Douglas C. Giancoli"
+  }
+  ]
